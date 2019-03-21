@@ -14,9 +14,13 @@ Write a bit about yourself?, well I'm <a href="https://github.com/waddah4ksa">Wa
 
 <hr />
 <b>You’ll learn how to:</b>
+<br />
 - Create and use a repository.
+<br />
 - Start and manage a new branch.
+<br />
 - Make changes to a file and push them to GitHub as commits.
+<br />
 - Open and merge a pull request.
 <hr />
 
@@ -118,7 +122,7 @@ They look exactly the same, but not for long! Next we’ll add our changes to th
 <hr />
 <b>Step 3. Make and commit changes:</b>
 <br />
-Bravo! Now, you’re on the code view for your <strong>>readme-edits</strong> branch, which is a copy of <strong>master</strong>.
+Bravo! Now, you’re on the code view for your <strong>readme-edits</strong> branch, which is a copy of <strong>master</strong>.
 <br />
 Let’s make some edits.
 
@@ -208,9 +212,13 @@ onto comments and Pull Requests.
 <b>Step 5. Merge your Pull Request:</b>
 <br />
 In this final step, it’s time to bring your changes together – merging your <strong>readme-edits</strong> branch into the <strong>master</strong> branch.
+<br />
 1. Click the green <b>Merge pull request</b> button to merge the changes into <strong>master</strong>.
+<br />
 2. Click <b>Confirm merge</b>.
+<br />
 3. Go ahead and <b>delete the branch</b>, since its changes have been incorporated, with the Delete branch button in the purple box.
+<br />
 <img src="https://guides.github.com/activities/hello-world/merge-button.png" />
 <img src="https://guides.github.com/activities/hello-world/delete-button.png" />
 
