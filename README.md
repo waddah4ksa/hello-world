@@ -1,36 +1,62 @@
+
 # hello-world
 Just another repository
 
-Write a bit about yourself?, well I'm Waddah4KSA, and thats all ^_^.
+Write a bit about yourself?, well I'm <a href="https://github.com/waddah4ksa">Waddah4KSA</a>, and thats all ^_^.
 
+<hr />
 # GitHub Hello-World Exercise 10min Read , 20190320
+<hr />
 
-#Intro
+<hr />
+# Intro
+<hr />
 
+<hr />
 <b>You’ll learn how to:</b>
 - Create and use a repository.
 - Start and manage a new branch.
 - Make changes to a file and push them to GitHub as commits.
 - Open and merge a pull request.
+<hr />
 
-#What is GitHub?
+<hr />
+# What is GitHub?
+<hr />
+
+<hr />
+<b>What is GitHub?</b>
+<br />
 GitHub is a code hosting platform for version control and collaboration.
+<br />
 It lets you and others work together on projects from anywhere.
 
 This tutorial teaches you GitHub essentials like <b>repositories</b>, <b>branches</b>, <b>commits</b>, and <b>Pull Requests</b>.
+<br />
 You’ll create your own Hello World repository and learn GitHub’s Pull Request workflow, a popular way to create and review code.
 
 <b>No coding necessary</b>
+<br />
 To complete this tutorial, you need a <a href="http://github.com/">GitHub.com</a> account and Internet access.
+<br />
 You don’t need to know how to code, use the command line, or install Git (the version control software GitHub is built on).
+<br />
 <b>Tip:</b> Open this guide in a separate browser window (or tab) so you can see it while you complete the steps in the tutorial.
+<hr />
 
-#Create a Repository
-Step 1. Create a Repository:
+<hr />
+# Create a Repository
+<hr />
+<b>Step 1. Create a Repository:</b>
+<br />
 A <b>repository</b> is usually used to organize a single project.
+<br />
 Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs.
+<br />
 We recommend including a <b>README</b>, or a file with information about your project.
+<br />
 GitHub makes it easy to add one at the same time you create your new repository.
+<br />
 It also offers other common options such as a license file.
 
 Your <strong>hello-world</strong> repository can be a place where you store ideas, resources, or even share and discuss things with others.
@@ -43,17 +69,23 @@ Your <strong>hello-world</strong> repository can be a place where you store idea
 <img src="https://guides.github.com/activities/hello-world/create-new-repo.png" />
 5. Click <b>Create repository</b>.
 
-#Create a Branch
+<hr />
+# Create a Branch
+<hr />
 <b>Step 2. Create a Branch:</b>
+<br />
 <b>Branching</b> is the way to work on different versions of a repository at one time.
+<br />
 By default your repository has one branch named <strong>master</strong> which is considered to be the definitive branch.
+<br />
 We use branches to experiment and make edits before committing them to <strong>master</strong>.
 
 When you create a branch off the <strong>master</strong> branch, you’re making a copy, or snapshot, of <strong>master</strong> as it was at that point in time.
+<br />
 If someone else made changes to the <strong>master</strong> branch while you were working on your branch, you could pull in those updates.
 
 This diagram shows:
-- The <strong>master</strong branch
+- The <strong>master</strong> branch
 - A new branch called <strong>feature</strong> (because we’re doing ‘feature work’ on this branch)
 - The journey that <strong>feature</strong> takes before it’s merged into <strong>master</strong>
 <img src="https://guides.github.com/activities/hello-world/branching.png" />
@@ -67,6 +99,7 @@ Branches accomplish similar goals in GitHub repositories.
 
 Here at GitHub, our developers, writers, and designers use branches for keeping bug fixes and
 feature work separate from our <strong>master</strong> (production) branch.
+<br />
 When a change is ready, they merge their branch into <strong>master</strong>.
 
 <b>To create a new branch:</b>
@@ -77,15 +110,22 @@ When a change is ready, they merge their branch into <strong>master</strong>.
 <img src="https://guides.github.com/activities/hello-world/readme-edits.gif" />
 
 Now you have two branches, <strong>master</strong> and <strong>readme-edits</strong>.
+<br />
 They look exactly the same, but not for long! Next we’ll add our changes to the new branch.
 
-#Make a Commit
+<hr />
+# Make a Commit
+<hr />
 <b>Step 3. Make and commit changes:</b>
+<br />
 Bravo! Now, you’re on the code view for your <strong>>readme-edits</strong> branch, which is a copy of <strong>master</strong>.
+<br />
 Let’s make some edits.
 
 On GitHub, saved changes are called <b>commits</b>.
+<br />
 Each commit has an associated <b>commit message</b>, which is a description explaining why a particular change was made.
+<br />
 Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
 
 <b>Make and commit changes</b>
@@ -97,15 +137,23 @@ Commit messages capture the history of your changes, so other contributors can u
 <img src="https://guides.github.com/activities/hello-world/commit.png" />
 These changes will be made to just the README file on your <strong>readme-edits</strong> branch, so
 now this branch contains content that’s different from <strong>master</strong>.
+<br />
 
-#Open a Pull Request
+<hr />
+# Open a Pull Request
+<hr />
 <b>Step 4. Open a Pull Request:</b>
+<br />
 Nice edits! Now that you have changes in a branch off of <strong>master</strong>, you can open a <b>pull request</b>.
 
 Pull Requests are the heart of collaboration on GitHub.
+<br />
 When you open a pull <b>request</b>, you’re proposing your changes and requesting that someone review and
+<br />
 pull in your contribution and merge them into their branch.
+<br />
 Pull requests show <b>diffs</b>, or differences, of the content from both branches.
+<br />
 The changes, additions, and subtractions are shown in green and red.
 
 As soon as you make a commit, you can open a pull request and start a discussion, even before the code is finished.
@@ -116,15 +164,14 @@ in your pull request message, you can ask for feedback from specific people or t
 down the hall or 10 time zones away.
 
 You can even open pull requests in your own repository and merge them yourself.
+<br />
 It’s a great way to learn the GitHub flow before working on larger projects.
 
 <b>Open a Pull Request for changes to the README</b>
 Click on the image for a larger version
 <table>
-          <th>
-          <td><b>Step</b></td>
-          <td><b>Screenshot</b></td>
-          </th>
+          <th><b>Step</b></th>
+          <th><b>Screenshot</b></th>
           <tr>
           <td>Click the <b>Pull Request</b> tab, then from the Pull Request page, click the green <b>New pull request</b> button.</td>
           <td><img src="https://guides.github.com/activities/hello-world/pr-tab.gif" /></td>
@@ -155,8 +202,11 @@ and
 <a href="https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/">drag and drop images and gifs</a>
 onto comments and Pull Requests.
 
-#Merge Pull Request
+<hr />
+# Merge Pull Request
+<hr />
 <b>Step 5. Merge your Pull Request:</b>
+<br />
 In this final step, it’s time to bring your changes together – merging your <strong>readme-edits</strong> branch into the <strong>master</strong> branch.
 1. Click the green <b>Merge pull request</b> button to merge the changes into <strong>master</strong>.
 2. Click <b>Confirm merge</b>.
@@ -164,13 +214,20 @@ In this final step, it’s time to bring your changes together – merging your 
 <img src="https://guides.github.com/activities/hello-world/merge-button.png" />
 <img src="https://guides.github.com/activities/hello-world/delete-button.png" />
 
+<hr />
 <b>Celebrate!</b>
+<hr />
+<br />
 By completing this tutorial, you’ve learned to create a project and make a pull request on GitHub!
 
 Here’s what you accomplished in this tutorial:
+<br />
 Created an open source repository
+<br />
 Started and managed a new branch
+<br />
 Changed a file and committed those changes to GitHub
+<br />
 Opened and merged a Pull Request
 
 Take a look at your GitHub profile and you’ll see your new
@@ -178,6 +235,7 @@ Take a look at your GitHub profile and you’ll see your new
 
 To learn more about the power of Pull Requests, we recommend reading the
 <a href="http://guides.github.com/overviews/flow/">GitHub flow Guide</a>.
+<br />
 You might also visit <a href="http://github.com/explore">GitHub Explore</a> and get involved in an Open Source project.
 
 Tip: Check out our other
