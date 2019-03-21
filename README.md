@@ -153,7 +153,7 @@ In this final step, it’s time to bring your changes together – merging your 
 1. Click the green Merge pull request button to merge the changes into master.
 2. Click Confirm merge.
 3. Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.
-<img src="https://guides.github.com/activities/activities/hello-world/merge-button.png" />
+<img src="https://guides.github.com/activities/hello-world/merge-button.png" />
 <img src="https://guides.github.com/activities/hello-world/delete-button.png" />
 
 Celebrate!
