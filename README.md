@@ -70,7 +70,7 @@ Your <strong>hello-world</strong> repository can be a place where you store idea
 2. Name your repository <strong>hello-world</strong>.
 3. Write a short description.
 4. Select <b>Initialize this repository with a README</b>.
-<img src="https://github.com/waddah4ksa/hello-world/create-new-repo.png" />
+<img src="https://github.com/waddah4ksa/hello-world/blob/master/create-new-repo.png" />
 5. Click <b>Create repository</b>.
 
 <hr />
@@ -92,7 +92,7 @@ This diagram shows:
 - The <strong>master</strong> branch
 - A new branch called <strong>feature</strong> (because we’re doing ‘feature work’ on this branch)
 - The journey that <strong>feature</strong> takes before it’s merged into <strong>master</strong>
-<img src="https://github.com/waddah4ksa/hello-world/branching.png" />
+<img src="https://github.com/waddah4ksa/hello-world/blob/master/branching.png" />
 
 Have you ever saved different versions of a file? Something like:
 - story.txt
@@ -111,7 +111,7 @@ When a change is ready, they merge their branch into <strong>master</strong>.
 2. Click the drop down at the top of the file list that says <b>branch: master</b>.
 3. Type a branch name, <strong>readme-edits</strong>, into the new branch text box.
 4. Select the blue <b>Create branch</b> box or hit “Enter” on your keyboard.
-<img src="https://github.com/waddah4ksa/hello-world/readme-edits.gif" />
+<img src="https://github.com/waddah4ksa/hello-world/blob/master/readme-edits.gif" />
 
 Now you have two branches, <strong>master</strong> and <strong>readme-edits</strong>.
 <br />
@@ -138,7 +138,7 @@ Commit messages capture the history of your changes, so other contributors can u
 3. In the editor, write a bit about yourself.
 4. Write a commit message that describes your changes.
 5. Click <b>Commit changes</b> button.
-<img src="https://github.com/waddah4ksa/hello-world/commit.png" />
+<img src="https://github.com/waddah4ksa/hello-world/blob/master/commit.png" />
 These changes will be made to just the README file on your <strong>readme-edits</strong> branch, so
 now this branch contains content that’s different from <strong>master</strong>.
 <br />
@@ -178,23 +178,23 @@ Click on the image for a larger version
           <th><b>Screenshot</b></th>
           <tr>
           <td>Click the <b>Pull Request</b> tab, then from the Pull Request page, click the green <b>New pull request</b> button.</td>
-          <td><img src="https://github.com/waddah4ksa/hello-world/pr-tab.gif" /></td>
+          <td><img src="https://github.com/waddah4ksa/hello-world/blob/master/pr-tab.gif" /></td>
           </tr>
           <tr>
           <td>In the <b>Example Comparisons</b> box, select the branch you made, <strong>readme-edits</strong>, to compare with <strong>master</strong> (the original).</td>
-          <td><img src="https://github.com/waddah4ksa/hello-world/pick-branch.png" /></td>
+          <td><img src="https://github.com/waddah4ksa/hello-world/blob/master/pick-branch.png" /></td>
           </tr>
           <tr>
           <td>Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit.</td>
-          <td><img src="https://github.com/waddah4ksa/hello-world/diff.png" /></td>
+          <td><img src="https://github.com/waddah4ksa/hello-world/blob/master/diff.png" /></td>
           </tr>
           <tr>
           <td>When you’re satisfied that these are the changes you want to submit, click the big green <b>Create Pull Request</b> button.</td>
-          <td><img src="https://github.com/waddah4ksa/hello-world/create-pr.png" /></td>
+          <td><img src="https://github.com/waddah4ksa/hello-world/blob/master/create-pr.png" /></td>
           </tr>
           <tr>
           <td>Give your pull request a title and write a brief description of your changes.</td>
-          <td><img src="https://github.com/waddah4ksa/hello-world/pr-form.png" /></td>
+          <td><img src="https://github.com/waddah4ksa/hello-world/blob/master/pr-form.png" /></td>
           </tr>
 </table>
 
@@ -219,8 +219,8 @@ In this final step, it’s time to bring your changes together – merging your 
 <br />
 3. Go ahead and <b>delete the branch</b>, since its changes have been incorporated, with the Delete branch button in the purple box.
 <br />
-<img src="https://github.com/waddah4ksa/hello-world/merge-button.png" />
-<img src="https://github.com/waddah4ksa/hello-world/delete-button.png" />
+<img src="https://github.com/waddah4ksa/hello-world/blob/master/merge-button.png" />
+<img src="https://github.com/waddah4ksa/hello-world/blob/master/delete-button.png" />
 
 <hr />
 <b>Celebrate!</b>
